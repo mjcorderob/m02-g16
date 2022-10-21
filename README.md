@@ -8,3 +8,5 @@ María Luisa Vial
 Antonia Ilabaca
 
 Rosa Astaburuaga
+
+Sofía Becker
