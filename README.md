@@ -6,3 +6,5 @@ María José Cordero
 María Luisa Vial
 
 Antonia Ilabaca
+
+Rosa Astaburuaga
