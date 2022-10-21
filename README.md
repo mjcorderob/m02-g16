@@ -2,4 +2,7 @@
 Integrantes:
 
 María José Cordero
+
 María Luisa Vial
+
+Antonia Ilabaca
