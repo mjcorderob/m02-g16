@@ -10,3 +10,5 @@ Antonia Ilabaca
 Rosa Astaburuaga
 
 Sofía Becker
+
+Olivia Cerda
