@@ -4,3 +4,13 @@ Integrantes:
 María José Cordero
 
 María Luisa Vial
+
+Antonia Ilabaca
+
+Rosa Astaburuaga
+
+Sofía Becker
+
+Sofía Browne 
+
+Olivia Cerda
