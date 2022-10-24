@@ -1,59 +1,60 @@
 
 body{ /* body selecciona el cuerpo general y lo pinta */
-	background-color: skyblue; /* https://www.w3schools.com/colors/colors_names.asp */  
+	background-color: white; /* https://www.w3schools.com/colors/colors_names.asp */  
 	font-family: 'Open Sans', sans-serif;
 			}
 
 #introduccion{/* selecciona el div y lo pinta */
-	width: 900px;
+	width: 1280px;
 	padding: 20px 0px;
 	margin: 0px;
-	background: purple;
+	background: white;
 	margin: 0 auto; /* centrar elementos dentro de este div */
 	float: center;  /* otras opciones son left, right */
 }
 
 #contenedor{/* selecciona el div y lo pinta */
-	width: 900px; 
+	width: 1280px; 
 	padding: 20px 0px;
 	margin: 0px;
-	background: gray;
+	background: cornflowerblue;
 	margin: 0 auto; /* centrar elementos dentro de este div */
 	float: center;  /* otras opciones son left, right */
 }
 
 div{/* selecciona el div y lo pinta */
-	width: 820px; 
+	width: 1280px; 
 	padding: 20px;
 	margin: 20px 20px;
-	background: white;
+	background: cornflowerblue;
 }
 #desarrollo{/* selecciona el id y lo pinta */
-	background-color: orange;
+	background-color: cornflowerblue;
 	}
 
 h1{/* selecciona el header o titulo 1 y lo pinta */
-	background-color: pink;
+	background-color: white;
 	width: 100%;
 	padding: 0px;
 	margin: 20px 0px;
 	border: 0px solid blue;
 	font-size: 28px;
-	color: hotpink;
+	color: black;
 	text-align: center;
 	font-family: 'Merriweather', serif;
 	}
 
 h2 {/* selecciona el header o titulo 3 y lo pinta */
-	background: pink;
+	background: cornflowerblue;
 	font-size: 20px;
-	color: navy;
+	color: white;
 	font-family: 'Merriweather', serif;
 	text-align: center;
 	}
 
 h3 {
 	font-family: 'Merriweather', serif;
+	color: white;
 }
 
 p {/* selecciona el parrafo y lo pinta */
@@ -63,7 +64,7 @@ p {/* selecciona el parrafo y lo pinta */
 	font-size: 18px;
 	}
 
-img{/* selecciona las imagenes y las formatea */
+img{/* selecciona  las imagenes y las formatea */
 	border: 0px solid gray;
 	width: 100%;
 	}
@@ -89,3 +90,6 @@ img{/* selecciona las imagenes y las formatea */
 a{
 	color: white;
 }
+
+#integrantes 
+h2 {color: white;}
