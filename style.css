@@ -1,29 +1,59 @@
 
 body {
-margin: 0;
 background: #00161E;
-
+font-family: 'Poppins', sans-serif;
+color: white;
+display: inline-block;
 } 
 
-.fotoportada {
-	color: white;
-	font-family: 'Poppins', sans-serif;
+.portada 
+img	{
+	width: 300px;
+	height: 200px; 
+	position: static;}	
+
+.Título {
+	font-size: xxx-large;
 }
 
-img{
-
-	height: 800px;
-	width: 1450px;
-	position: relative;
+.introduccion {
+	font-size: small;
 }
 
+p {
+	font-size: large;
+}
 
-.fotodiseñadora
-img{
-
-height: 50px;
-width: 80px;
-margin-top: 100px;
+.cuerpo {
+	margin-top: 270px;
+	background-color: #00161E;
+	display: inline-block;
+	width: auto;
+	text-align: justify;
 
 }
 
+.cuerpo h1 {
+	font-size: xxx-large;
+}
+
+.paper {
+	background-color:lightblue;
+	width: 630px;
+	text-align: left;
+	color: #00161E;
+}
+
+.proyecto {
+	background-color: lightblue;
+	width: 630px;
+	text-align: left;
+	margin-left: 650px;
+	font-display: inline;
+	margin-top: -472px;
+	color: #00161E;
+	}
+
+.vínculo {
+	margin-top: 170px;
+}
