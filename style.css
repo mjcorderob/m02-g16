@@ -42,6 +42,8 @@ p {
 	width: 630px;
 	text-align: left;
 	color: #00161E;
+	font-display: inline;
+	position: static;
 }
 
 .proyecto {
@@ -52,8 +54,22 @@ p {
 	font-display: inline;
 	margin-top: -472px;
 	color: #00161E;
+	position: static;
+	
 	}
 
 .vínculo {
 	margin-top: 170px;
+	font-size: xx-large;
+}
+
+.conclusión{
+	margin-top: 170px;
+	font-size: xx-large;
+}
+
+.integrantes{
+	margin-top: 270px;
+	background-color: lightblue;
+	color: #00161E;
 }
