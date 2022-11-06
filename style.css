@@ -44,17 +44,19 @@ p {
 	color: #00161E;
 	font-display: inline;
 	position: static;
+	padding: 20px;
 }
 
 .proyecto {
 	background-color: lightblue;
 	width: 630px;
 	text-align: left;
-	margin-left: 650px;
+	margin-left: 700px;
 	font-display: inline;
-	margin-top: -472px;
+	margin-top: -543px;
 	color: #00161E;
 	position: static;
+	padding: 20px;
 	
 	}
 
