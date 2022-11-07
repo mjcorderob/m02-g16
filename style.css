@@ -3,49 +3,53 @@ body {
 background: #00161E;
 font-family: 'Poppins', sans-serif;
 color: white;
-display: inline-block;
+margin: 0;
 } 
 
-.portada 
-img	{
-	width: 300px;
-	height: 200px; 
-	position: static;}	
-
 .Título {
+	background-image: linear-gradient(
+      rgba(0, 0, 0, 0.5), 
+      rgba(50, 0, 0, 0.5)
+    ), url("fondo.jpg");
+	 background-size: cover;
+	 height: 700px;
+     background-attachment: fixed;
 	font-size: xxx-large;
-}
+	text-align: center;}
+
+	p {
+		padding-right:50px;
+		padding-left: 50px;
+	}
 
 .introduccion {
-	font-size: small;
-}
+	font-size: small;}
 
-p {
-	font-size: large;
-}
+	h2 {
+		padding-left: 15px;}
+
+
+	p {
+	font-size: large;}
 
 .cuerpo {
 	margin-top: 270px;
 	background-color: #00161E;
 	display: inline-block;
 	width: auto;
-	text-align: justify;
-
-}
+	text-align: justify;}
 
 .cuerpo h1 {
-	font-size: xxx-large;
-}
+	font-size: xxx-large;}
 
 .paper {
 	background-color:lightblue;
 	width: 630px;
 	text-align: left;
-	color: #00161E;
-	font-display: inline;
-	position: static;
-	padding: 20px;
-}
+	color: #00161E;}
+
+	img {
+		border-radius: 50%;}
 
 .proyecto {
 	background-color: lightblue;
@@ -56,9 +60,7 @@ p {
 	margin-top: -543px;
 	color: #00161E;
 	position: static;
-	padding: 20px;
-	
-	}
+	padding: 20px;}
 
 .vínculo {
 	margin-top: 170px;
@@ -67,11 +69,9 @@ p {
 
 .conclusión{
 	margin-top: 170px;
-	font-size: xx-large;
-}
+	font-size: xx-large;}
 
 .integrantes{
 	margin-top: 270px;
 	background-color: lightblue;
-	color: #00161E;
-}
+	color: #00161E;}
