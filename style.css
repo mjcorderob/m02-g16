@@ -40,13 +40,15 @@ margin: 0;
 	text-align: justify;}
 
 .cuerpo h1 {
-	font-size: xxx-large;}
+	font-size: xxx-large;
+	padding-left: 20px;}
 
 .paper {
 	background-color:lightblue;
 	width: 630px;
 	text-align: left;
-	color: #00161E;}
+	color: #00161E;
+	padding:  20px;}
 
 	img {
 		border-radius: 50%;
@@ -58,21 +60,31 @@ margin: 0;
 	text-align: left;
 	margin-left: 700px;
 	font-display: inline;
-	margin-top: -543px;
+	margin-top: -1575px;
 	color: #00161E;
 	position: static;
 	padding: 20px;}
 
 .vínculo {
+	background-color: #b14cff;
 	margin-top: 170px;
 	font-size: xx-large;
-}
+	padding-left: 20px;
+	height: 350px;}
 
 .conclusión{
 	margin-top: 170px;
-	font-size: xx-large;}
+	font-size: xx-large;
+	padding-left: 20px;}
 
 .integrantes{
 	margin-top: 270px;
 	background-color: lightblue;
-	color: #00161E;}
+	color: #00161E;
+	padding-left: 20px;}
+
+.referencias {
+	background-color: lightblue;
+	color: #00161E;
+	padding-left: 5px;
+}
